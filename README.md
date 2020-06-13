@@ -21,5 +21,5 @@ You can change the difficulty images. It's available on the 'imgs/customize' fol
 
 ![Sound Voltex Difficulties](https://i.imgur.com/g6Riydl.png)
 
-## You can check how this skin looks like before downloading.
-[Skin Preview](https://www.youtube.com/watch?v=HcHdm5ZpaAY)
+## Skin Video Preview
+[You can check how this skin looks like before downloading.](https://www.youtube.com/watch?v=HcHdm5ZpaAY)
