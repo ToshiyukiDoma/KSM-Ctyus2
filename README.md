@@ -1,5 +1,4 @@
-# KSM-Ctyus2
-Cytus 2-inspired skin for kshootmania.
+# Introducing the kshootmania skin inspired from Cytus 2
 
 I don't really know how to replicate make the note/laser effects to this game as I'm having a hard time with it. Other than the listed, I could say that this skin is complete.
 
